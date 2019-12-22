@@ -34,19 +34,19 @@ dependencies {
 IbraToast.makeText(this, "Success !", Toast.LENGTH_SHORT, 1).show();
 ```
 
-2-  display a Success Toast:
+2-  display an Error Toast:
 
 ``` java
 IbraToast.makeText(this, "Error !", Toast.LENGTH_SHORT, 2).show();
 ```
 
-3-  display a Success Toast:
+3-  display an Info Toast:
 
 ``` java
 IbraToast.makeText(this, "Info", Toast.LENGTH_SHORT, 3).show();
 ```
 
-4-  display a Success Toast:
+4-  display a Dark Toast:
 
 ``` java
 IbraToast.makeText(this, "Dark", Toast.LENGTH_SHORT, 4).show();
