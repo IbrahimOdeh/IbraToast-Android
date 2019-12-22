@@ -26,6 +26,11 @@ dependencies {
 	implementation 'com.github.IbrahimOdeh:ibraToast:1.1'
 }
 ```
+
+## Screenshots
+<img src="https://github.com/IbrahimOdeh/IbraToast/blob/master/IbraToastImgs.jpg">
+
+
 ## Usage
 
 1-  display a Success Toast:
