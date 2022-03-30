@@ -1,9 +1,6 @@
 package com.ibrahimodeh.ibratoastlib;
 
-import android.app.Activity;
-import android.app.Application;
 import android.content.Context;
-import android.support.v7.widget.CardView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.ImageView;
