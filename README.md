@@ -23,7 +23,7 @@ Add this to your module's `build.gradle` file (make sure the version matches the
 ```gradle
 dependencies {
 	...
-	implementation 'com.github.IbrahimOdeh:ibraToast:1.1'
+	implementation 'com.github.IbrahimOdeh:ibraToast:2.0.0'
 }
 ```
 
@@ -60,7 +60,7 @@ IbraToast.makeText(this, "Dark", Toast.LENGTH_SHORT, 4).show();
 ## License
 
 ```
-Copyright (c) 2019 Ibrahim Odeh
+Copyright (c) 2019-2022 Ibrahim Odeh
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
